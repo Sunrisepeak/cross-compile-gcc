@@ -1,0 +1,25 @@
+{
+  "name": "arm-xxx-eabi-tools",
+  "version": "1.0.0",
+  "description": "arm gcc tools",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunrisepeak/cross-compile-gcc.git"
+  },
+  "keywords": [
+    "gcc",
+    "arm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunrisepeak/cross-compile-gcc/issues"
+  },
+  "homepage": "https://github.com/Sunrisepeak/cross-compile-gcc#readme"
+}
